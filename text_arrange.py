@@ -1,7 +1,7 @@
 
 
-input_file = r'D:\sunyt\projects\Img2Bits\text.c'
-output_file = r'D:\sunyt\projects\Img2Bits\output.c'
+input_file = r'D:\input.c'
+output_file = r'D:\output.c'
 
 with open(input_file, 'r') as f:
   text = f.readlines()
